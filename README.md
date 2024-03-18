@@ -19,6 +19,8 @@ The sign-in form provides various functionalities such as logging in with existi
 - **assets/**
 - **gitignore**
 - **index.html**
+- **login.html**
+- **blogPost.html**
 - **assets/**
   - **cs/**
     - **style.css**
