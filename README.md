@@ -1,12 +1,12 @@
 # Sign In Form
 
-This repository contains an animation template built using Tailwind CSS with AOS animations.
+"Project: GitHub Sign In Form - Awesome Sign-in form for curious users. 🖥️🔐 #GitHub #SignIn #WebDevelopment"
 
 ![Sign In Form Preview](screenshot.png)
 
 ## Demo
 
-You can view a live demo of this animation template [here](https://d-vokic.github.io/Sign-in-form/).
+You can view a live demo of this project [here](https://d-vokic.github.io/Sign-in-form/).
 
 ## Overview
 
