@@ -1,0 +1,25 @@
+@use "../components" as *;
+
+.post {
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    border-radius: 5px;
+
+    h2 {
+        font-size: 24px;
+        color: #333;
+        margin-bottom: 10px;
+    }
+
+    p {
+        font-size: 16px;
+        color: #666;
+        margin-bottom: 10px;
+    }
+
+    span {
+        font-size: 14px;
+        color: #999;
+    }
+}
