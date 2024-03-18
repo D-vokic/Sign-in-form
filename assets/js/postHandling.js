@@ -1,11 +1,3 @@
-/**
- * Import required functions from createHTML.js module.
- * @module createHTML
- * @see module:createHTML.createLabelHTML
- * @see module:createHTML.createInputHTML
- * @see module:createHTML.createSinglePost
- * @see module:createHTML.createHTMLButton
- */
 import {
   createLabelHTML,
   createInputHTML,

@@ -64,19 +64,6 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 });
 
-/**
- * Event listener for DOMContentLoaded event.
- */
-// document.addEventListener("DOMContentLoaded", function () {
-//   const loggedIn = localStorage.getItem("loggedIn");
-//   if (!loggedIn || loggedIn !== "true") {
-//     window.location.href = "login.html";
-//   } else {
-//     initPosts();
-//     createHTMLDiv("posts", document.body);
-//   }
-// });
-
 /** @type {Array} fields - Array to store form fields */
 let fields = [
   {
