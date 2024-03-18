@@ -1,6 +1,8 @@
 # Sign In Form
 
-"Project: GitHub Sign In Form - Awesome Sign-in form for curious users. 🖥️🔐 #GitHub #SignIn #WebDevelopment"
+### Awesome Sign-in form for curious users. ###
+
+🖥️🔐 #GitHub #SignIn #WebDevelopment"
 
 ![Sign In Form Preview](screenshot.png)
 
